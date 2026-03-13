@@ -234,7 +234,7 @@ export function ProductsPage() {
   return (
     <>
       <SEOHead
-        title="Products — Security Framework, Prediction Market, Marketplace & More"
+        title="AESON Products — Security Framework, Prediction Market & More"
         description="Explore AESON's upcoming products: Security Framework, Prediction Market, B2B Marketplace, Defense Solutions, Tech Infrastructure, and Fintech Solutions. All coming soon."
         canonical="/products"
         pageType="products"
@@ -257,11 +257,11 @@ export function ProductsPage() {
 
               <h1 className="text-5xl sm:text-6xl md:text-7xl lg:text-8xl font-black leading-[0.95] tracking-tight mb-8">
                 <span className="bg-gradient-to-b from-white via-white to-white/50 bg-clip-text text-transparent">
-                  Pioneering Products
+                  AESON Products
                   <br />
                 </span>
                 <span className="bg-gradient-to-r from-[#ff6b35] via-[#ff8c5a] to-[#ffb085] bg-clip-text text-transparent text-glow-orange">
-                  In Development
+                 — Pioneering Solutions
                 </span>
               </h1>
 

@@ -137,7 +137,7 @@ export function ContactPage() {
   return (
     <>
       <SEOHead
-        title="Contact Us — Get in Touch with AESON"
+        title="Contact AESON"
         description="Contact AESON for partnerships, defense solutions, investment inquiries, or product early access. Reach out and let's build the future together."
         canonical="/contact"
         pageType="contact"
@@ -160,11 +160,11 @@ export function ContactPage() {
 
               <h1 className="text-5xl sm:text-6xl md:text-7xl lg:text-8xl font-black leading-[0.95] tracking-tight mb-8">
                 <span className="bg-gradient-to-b from-white via-white to-white/50 bg-clip-text text-transparent">
-                  Let's Build
+                  Contact AESON Today
                   <br />
                 </span>
                 <span className="bg-gradient-to-r from-[#ff6b35] via-[#ff8c5a] to-[#ffb085] bg-clip-text text-transparent text-glow-orange">
-                  Something Great
+                  Let's Build Something Great
                 </span>
               </h1>
 

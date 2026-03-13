@@ -1,10 +1,10 @@
 import { useEffect } from 'react';
 
 interface SEOHeadProps {
-  title?: string;
-  description?: string;
-  canonical?: string;
-  pageType?: 'home' | 'products' | 'team' | 'join' | 'contact';
+  title: string;
+  description: string;
+  canonical: string;
+  pageType: 'home' | 'products' | 'team' | 'why-us' | 'join' | 'contact';
 }
 
 const BASE_URL = 'https://aeson-web.vercel.app';

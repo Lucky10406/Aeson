@@ -130,7 +130,7 @@ export function JoinPage() {
   return (
     <>
       <SEOHead
-        title="Join the Team — Careers at AESON"
+        title="Join AESON"
         description="Join AESON's world-class team of innovators. Explore open positions in AI engineering, defense technology, fintech, product, and strategic partnerships."
         canonical="/join"
         pageType="join"

@@ -53,7 +53,7 @@ export function TeamPage() {
   return (
     <>
       <SEOHead
-        title="Our Team — Meet the Innovators at AESON"
+        title="AESON Team — Meet Our Deep Tech Leaders"
         description="Meet the visionary team behind AESON — leaders in deep technology, defense, strategy, and commercial innovation driving the future of open innovation."
         canonical="/team"
         pageType="team"
@@ -79,7 +79,7 @@ export function TeamPage() {
                   Meet the{' '}
                 </span>
                 <span className="bg-gradient-to-r from-[#ff6b35] via-[#ff8c5a] to-[#ffb085] bg-clip-text text-transparent text-glow-orange">
-                  Innovators
+                  AESON Innovators
                 </span>
               </h1>
 
