@@ -7,18 +7,18 @@ import { SEOHead } from '../components/SEOHead';
 
 const teamMembers = [
   {
-    name: 'Mayuresh Sharma',
-    role: 'Founder & Chief Technology Officer',
-    bio: 'Visionary leader driving innovation across deep tech and defense sectors with decades of experience in strategic technology development.',
-    initials: 'MS',
-    department: 'Engineering',
-  },
-  {
     name: 'Shreya Negi',
-    role: 'Chief Executive Officer',
-    bio: 'Leading our technical vision and R&D initiatives, with deep expertise in AI, quantum computing, and advanced systems architecture.',
+    role: 'Co-Founder & Chief Executive Officer',
+    bio: 'Visionary leader driving innovation across deep tech and defense sectors with years of experience in strategic technology development.',
     initials: 'SN',
     department: 'Leadership',
+  },
+  {
+    name: 'Mayuresh Sharma',
+    role: 'Co-Founder & Chief Technology Officer',
+    bio: 'Leading our technical vision and R&D initiatives, with deep expertise in AI, quantum computing, and advanced systems architecture. ',
+    initials: 'MS',
+    department: 'Engineering',
   },
 ];
 
